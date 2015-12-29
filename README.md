@@ -1,8 +1,8 @@
-##NODEDEMO
-***
-> urlAPI
->> parse
->> format
+#nodeDemos
+
+## urlAPI
+* parse
+* format
 
 
 > querystringAPI
