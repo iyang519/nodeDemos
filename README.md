@@ -1,12 +1,12 @@
 #nodeDemos
 
-## urlAPI
+urlAPI
 * parse
 * format
 
 
-> querystringAPI
->> stringify
->> parse
->> escape
->> unescape
+querystringAPI
+* stringify
+* parse
+* escape
+* unescape
